@@ -7,7 +7,7 @@ _**Keyworkds: Open-set Recognition; Open-set Single Domain Generalization; Sourc
 ------------
 Code for our paper **'One Ring to Bring Them All: Towards Open-Set Recognition under Domain Shift'** 
 
-[[project]](https://sites.google.com/view/one-ring)[[arxiv]]()
+[[project]](https://sites.google.com/view/one-ring)[[arxiv (soon)]]()
 
 **We release the code if accepted.**
 
