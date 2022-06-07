@@ -9,7 +9,7 @@ Code for our paper **'One Ring to Bring Them All: Towards Open-Set Recognition u
 
 [[project]](https://sites.google.com/view/one-ring)[[arxiv (soon)]]()
 
-**We release the code if accepted.**
+**We will release the code if accepted.**
 
 ## Demo for our **OneRing** classifier
 
