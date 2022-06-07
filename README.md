@@ -11,5 +11,13 @@ Code for our paper **'One Ring to Bring Them All: Towards Open-Set Recognition u
 
 **We release the code if accepted.**
 
-**Demo for our **OneRing** classifier, where it is trained on 3 known categories.**
+## Demo for our **OneRing** classifier
+
+**Trained on 3 known categories.**
+
 ![](./toy_CE_loss.gif)
+
+
+## **Experimental results**
+
+![](./result.png)
