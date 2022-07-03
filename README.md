@@ -25,9 +25,9 @@ Code for our paper **'One Ring to Bring Them All: Towards Open-Set Recognition u
 
 ### **Reference**
 
-> @article{Yang2022OneRT,\
-  title={One Ring to Bring Them All: Towards Open-Set Recognition under Domain Shift},\
-  author={Yang, Shiqi and Wang, Yaxing and Wang, Kai and Jui, Shangling and van de Weijer, Joost},\
-  journal={arXiv preprint arXiv:2205.03600},\
-  year={2022}\
+> @article{yang2022one,
+  title={One Ring to Bring Them All: Towards Open-Set Recognition under Domain Shift},
+  author={Yang, Shiqi and Wang, Yaxing and Wang, Kai and Jui, Shangling and van de Weijer, Joost},
+  journal={arXiv preprint arXiv:2206.03600},
+  year={2022}
 }
