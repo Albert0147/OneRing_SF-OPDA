@@ -36,7 +36,7 @@ Code for our paper **'OneRing: A Simple Method for Source-free Open-partial Doma
 (**We provide the model weight after adaptation for SF-OPDA on Office-Home and VisDA, check the [link](https://drive.google.com/drive/folders/1_Kf5NivEspZ4THMx2KTT4EVhzl2HY68J?usp=sharing) here.**)
 
 
-\textbf{You can check the old arxiv version for results of other tasks.}
+**You can check the old arxiv version for results of other tasks.**
 
 ### **Reference**
 
