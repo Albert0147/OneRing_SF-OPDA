@@ -27,7 +27,7 @@ Code for our paper **'OneRing: A Simple Method for Source-free Open-partial Doma
 - Run the following command for the whole training on **Office-31** under ***open-set single domain generalization***, the model will be only trained on source and directly evaluated on target domain.
 > python train_office31_ossdg.py --gpu 0
 
-- Run the following command for the whole training on **Office-Home** and **VisDA** under ***source-free open-partial domain adaptation***, the model will be first trained on source and then adapt to target domain without source data.
+- Run the following command for the whole training on **Office-Home** and **VisDA** under ***source-free open-partial domain adaptation***, the model will be first trained on source and then adapt to target domain without source data. (*lpa refers to our AaD.*)
 > sh officehome_sfunda.sh
 > 
 > python train_visda_sfunda.py --gpu 0 --save_model --lpa
